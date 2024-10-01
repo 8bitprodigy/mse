@@ -1,7 +1,5 @@
 # M.S.E. - Meritocracy, Stratification, & Exclusion
 
----
-
     forward todo...
 
 ---
@@ -12,7 +10,7 @@
 
 ## Stratification
 
-    Each man should be recognized in correlation to the quality of his work. A fact of life found brutal to many is that some people are better than others. For those more talented than others, they should be awarded and praised as such, and those less capable should simply learn to appreciate what they do have, rather than trying to debase the competent.
+    All men are *not* created equal. Each man should be recognized in correlation to the quality of his work. A fact of life found brutal by so many is that some people are better than others. For those more talented than others, they should be awarded and praised as such, and those less capable should simply learn to appreciate what they do have, rather than trying to debase the competent.
 
 ## Exclusion
 
