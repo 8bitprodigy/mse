@@ -1,6 +1,11 @@
 # M.S.E. - Meritocracy, Stratification, & Exclusion
 
-    forward todo...
+#### A more ethical framework.
+
+    If you see this text included in a project, that means the owner has made a commitment that the project will adhere to the standards of M.S.E. initiatives in order to provide a more ethical environment for everyone who wishes to involve themself. 
+
+
+    If you are a project owner and wish to include it, you may copy and paste the text of this document into your code of conduct, or include this file under the name `MSE` (or `MSE.md` or `MSE.txt` with formatting removed) in the root directory of your project alongside your `README`. The text of this document is provided unencumbered of any restrictions under the Public Domain or Unlicense.
 
 ---
 
@@ -14,17 +19,15 @@
 
 ## Exclusion
 
-    The foundation of freedom of association. For too long has gatekeeping been decried as evil, whilst hypocritically kicking out those who don't align perfectly with their own ideological crusades. We, instead choose to be honest with what we're doing -- keeping out the riff-raff. 
-
-
-
-
-
-
+    Keep out the riff-raff. This is the foundation of freedom of association. For too long has gatekeeping been decried as evil, whilst hypocritically kicking out those who don't align perfectly with their own ideological crusades. We, instead choose to be honest with what we're doing. 
 
 ---
 
-## License:
+## License
+
+**The above text is provided, completely unencumbered, under the following license:**
+
+
 
 This is free and unencumbered software released into the public domain.
 
