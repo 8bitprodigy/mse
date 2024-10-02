@@ -19,7 +19,7 @@
 
 ## Exclusion
 
-    Keep out the riff-raff. This is the foundation of freedom of association, to not only include those you find to be good company, but to exclude those who want nothing more thant to see you drawn and quartered. For too long has gatekeeping been decried as evil, whilst hypocritically kicking out those who don't align perfectly with their own ideological crusades. We, instead choose to be honest with what we're doing. 
+    Keep out the riff-raff. This is the foundation of freedom of association--to not only include those you find agreeable, but to exclude those who want nothing more than to see you drawn and quartered. For too long has gatekeeping been decried as evil, whilst hypocritically kicking out those who don't align perfectly with their own ideological crusades. We, instead choose to be honest with what we're doing. 
 
 ---
 
