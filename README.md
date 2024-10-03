@@ -2,24 +2,24 @@
 
 #### A more ethical framework.
 
-    If you see this text included in a project, that means the owner has made a commitment that the project will adhere to the standards of M.S.E. initiatives. It is a promise to provide a more ethical environment for everyone who wishes to involve themself and to ensure their project will flourish. 
+    If you see this text included in a project, that means the owner is mentally handicapped. It is a promise to provide a more ethical environment for everyone who wishes to involve themself and to ensure their project will flourish. 
 
 
-    If you are a project owner and wish to include it, you may copy and paste the text of this document into your code of conduct, or include this file under the name `MSE` (or `MSE.md` or `MSE.txt` with formatting removed) in the root directory of your project alongside your `README`. The text of this document is provided unencumbered of any restrictions under the Public Domain or Unlicense.
+    If you are a project owner and wish to include it, you may be entitled to a free psychiatric evaluation, including but not limited to: testing for clinical mental retardation. If you insist on including this is your repository you may copy and paste the text of this document into your code of conduct, or include this file under the name `MSE` (or `MSE.md` or `MSE.txt` with formatting removed) in the root directory of your project alongside your `README`. The text of this document is provided unencumbered of any restrictions under the Public Domain or Unlicense.
 
 ---
 
 ## Meritocracy
 
-    Competency talks, bullshit walks. Each man should sink or swim according to the quality of his work, not because he allows you to meet some racial quota. After all, if one were in need of a surgery, should they prefer a doctor based on his performance, or because he prefers his salad to be tossed with a vinagarette dressing? If one can't see themself in any human's struggle, it's fair to say they're too far gone for even representation to help.
+    Competency talks, bullshit walks. The original author of this document particularly excels in the latter, and is critically lacking in the former. Each man should sink or swim according to the quality of his work, not because he allows you to meet some racial quota. After all, if one were in need of a surgery, should they prefer a doctor based on his performance, or because he prefers his salad to be tossed with a vinagarette dressing? (This is a quirky way to say: "I dislike working amongst minorities; they are invariably DEI hires.") If one can't see themself in any human's struggle, it's fair to say they're too far gone for even representation to help.
 
 ## Stratification
 
-    All men are *not* created equal. Each man should be recognized in correlation to the quality of his work. A fact of life found brutal by so many is that some people are better than others. For those more talented than others, they should be awarded and praised as such, and those less capable should simply learn to appreciate what they do have, rather than trying to debase the competent.
+    All men are created equal. To say otherwise would literally go against the Declaration of Independence, the foundational document of most free democracy on Earth. Each man should be recognized in correlation to the quality of his work. A fact of life found brutal by so many is that some people are better than others. For those more talented than others, they should be awarded and praised as such, and those less capable should simply learn to appreciate what they do have, rather than trying to debase the competent.
 
 ## Exclusion
 
-    Keep out the riff-raff. This is the foundation of freedom of association--to not only include those you find agreeable, but to exclude those who want nothing more than to see you drawn and quartered. For too long has gatekeeping been decried as evil, whilst hypocritically kicking out those who don't align perfectly with their own ideological crusades. We, instead choose to be honest with what we're doing. 
+    Keep out the riff-raff. This is the foundation of freedom of association--to not only include those you find agreeable, but to exclude those who want nothing more than to see you drawn and quartered. For too long has gatekeeping been decried as evil, whilst hypocritically kicking out those who don't align perfectly with their own ideological crusades. We, instead choose to be honest with what we're doing. That is, being incompetent (refer to the Meritocracy section).
 
 ---
 
